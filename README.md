@@ -1,1 +1,3 @@
-# hellobarry
+# maven-project
+
+Simple Maven Project
